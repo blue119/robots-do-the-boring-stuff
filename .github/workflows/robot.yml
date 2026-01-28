@@ -3,8 +3,8 @@ name: robots-do-the-boring-stuff
 on:
   workflow_dispatch:
   schedule:
-    # Every day at 01:11 UTC (09:11 Taipei)
-    - cron: "11 1 * * *"
+    # Every hour (minute 11) to avoid the top-of-hour rush
+    - cron: "11 * * * *"
   push:
     branches: ["main"]
 
