@@ -6,15 +6,15 @@ A tiny **GitHub-native robot**: a Node.js script that runs in **GitHub Actions**
 
 ## Top 3 on Hacker News
 
-_Last update: 2026-01-28T16:00:30.825Z_
+_Last update: 2026-01-28T16:25:57.621Z_
 
-> Boring tasks completed with suspicious enthusiasm.
+> Another day, another automation.
 
-1. [Microsoft forced me to switch to Linux](https://www.himthe.dev/blog/microsoft-to-linux)     score: 282 • comments: 221 • by: bobsterlobster • [discussion](https://news.ycombinator.com/item?id=46795864)
+1. [Microsoft forced me to switch to Linux](https://www.himthe.dev/blog/microsoft-to-linux)     score: 383 • comments: 291 • by: bobsterlobster • [discussion](https://news.ycombinator.com/item?id=46795864)
 
-2. [Airfoil (2024)](https://ciechanow.ski/airfoil/)     score: 127 • comments: 17 • by: brk • [discussion](https://news.ycombinator.com/item?id=46795908)
+2. [Airfoil (2024)](https://ciechanow.ski/airfoil/)     score: 137 • comments: 21 • by: brk • [discussion](https://news.ycombinator.com/item?id=46795908)
 
-3. [Dole Kemp 96 Web Site](https://www.dolekemp96.org/main.htm)     score: 34 • comments: 22 • by: DamnInteresting • [discussion](https://news.ycombinator.com/item?id=46796571)
+3. [Amazon axes 16,000 jobs as it pushes AI and efficiency](https://www.reuters.com/legal/litigation/amazon-cuts-16000-jobs-globally-broader-restructuring-2026-01-28/)     score: 86 • comments: 56 • by: DGAP • [discussion](https://news.ycombinator.com/item?id=46796745)
 
 <!-- HN:END -->
 
