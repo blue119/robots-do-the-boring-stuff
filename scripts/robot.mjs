@@ -6,7 +6,7 @@ const argv = new Set(process.argv.slice(2));
 const dryRun = argv.has("--dry-run");
 
 const root = process.cwd();
-const statusPath = path.join(root, "STATUS.md");
+const readmePath = path.join(root, "README.md");
 
 const now = new Date();
 const iso = now.toISOString();
@@ -69,27 +69,41 @@ const hnBlock = hnError
       )
       .join("\n\n");
 
-const content = `# 🤖 robots-do-the-boring-stuff
+const START = "<!-- HN:START -->";
+const END = "<!-- HN:END -->";
 
-Last run: **${iso}**
-
-> ${quip}
+const block = `${START}
 
 ## Top 3 on Hacker News
 
+_Last update: ${iso}_
+
+> ${quip}
+
 ${hnBlock}
 
-## How it works
+${END}`;
 
-- GitHub Actions runs a Node.js script on a schedule
-- The script fetches the Hacker News top stories via the official Firebase API
-- It updates this file and commits the changes back to the repo
-`;
+function replaceBetweenMarkers(text) {
+  const startIdx = text.indexOf(START);
+  const endIdx = text.indexOf(END);
+
+  if (startIdx === -1 || endIdx === -1 || endIdx < startIdx) {
+    throw new Error(
+      `README is missing markers. Please include:\n${START}\n${END}`
+    );
+  }
+
+  return text.slice(0, startIdx) + block + text.slice(endIdx + END.length);
+}
 
 if (dryRun) {
-  console.log(content);
+  const existing = await fs.readFile(readmePath, "utf8");
+  console.log(replaceBetweenMarkers(existing));
   process.exit(0);
 }
 
-await fs.writeFile(statusPath, content, "utf8");
-console.log(`Wrote ${statusPath}`);
+const readme = await fs.readFile(readmePath, "utf8");
+const updated = replaceBetweenMarkers(readme);
+await fs.writeFile(readmePath, updated, "utf8");
+console.log(`Updated ${readmePath}`);
