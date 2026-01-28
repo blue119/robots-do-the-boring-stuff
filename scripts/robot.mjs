@@ -17,10 +17,74 @@ const quips = [
   "Boring tasks completed with suspicious enthusiasm.",
   "Your future self says thanks.",
   "I ran the checklist. No applause needed.",
+  "I turned doomscrolling into a cron job.",
 ];
 const quip = quips[Math.floor(Math.random() * quips.length)];
 
-const content = `# 🤖 robots-do-the-boring-stuff\n\nLast run: **${iso}**\n\n> ${quip}\n\n## What this repo does\n\n- Demonstrates a **GitHub Actions** workflow that runs a small Node.js script\n- Updates this file on a schedule (and on manual dispatch)\n\n## Next ideas\n\n- Auto-triage issues/PRs\n- Nightly dependency updates\n- Generate a weekly project digest\n`;
+const HN_TOP_STORIES_URL = "https://hacker-news.firebaseio.com/v0/topstories.json";
+const HN_ITEM_URL = (id) => `https://hacker-news.firebaseio.com/v0/item/${id}.json`;
+const HN_DISCUSS_URL = (id) => `https://news.ycombinator.com/item?id=${id}`;
+
+async function fetchJson(url) {
+  const res = await fetch(url, {
+    headers: {
+      "user-agent": "robots-do-the-boring-stuff (github actions)"
+    },
+  });
+  if (!res.ok) {
+    throw new Error(`HTTP ${res.status} fetching ${url}`);
+  }
+  return res.json();
+}
+
+async function getTopHN(n = 3) {
+  const ids = await fetchJson(HN_TOP_STORIES_URL);
+  const top = ids.slice(0, n);
+  const items = await Promise.all(top.map((id) => fetchJson(HN_ITEM_URL(id))));
+  return items.map((it) => ({
+    id: it.id,
+    title: it.title ?? "(no title)",
+    url: it.url ?? HN_DISCUSS_URL(it.id),
+    by: it.by ?? "unknown",
+    score: it.score ?? 0,
+    comments: it.descendants ?? 0,
+  }));
+}
+
+let hn = [];
+let hnError = null;
+try {
+  hn = await getTopHN(3);
+} catch (err) {
+  hnError = err instanceof Error ? err.message : String(err);
+}
+
+const hnBlock = hnError
+  ? `⚠️ Failed to fetch Hacker News top stories: ${hnError}`
+  : hn
+      .map(
+        (s, i) =>
+          `${i + 1}. [${s.title}](${s.url})  \
+   score: ${s.score} • comments: ${s.comments} • by: ${s.by} • [discussion](${HN_DISCUSS_URL(s.id)})`
+      )
+      .join("\n\n");
+
+const content = `# 🤖 robots-do-the-boring-stuff
+
+Last run: **${iso}**
+
+> ${quip}
+
+## Top 3 on Hacker News
+
+${hnBlock}
+
+## How it works
+
+- GitHub Actions runs a Node.js script on a schedule
+- The script fetches the Hacker News top stories via the official Firebase API
+- It updates this file and commits the changes back to the repo
+`;
 
 if (dryRun) {
   console.log(content);
