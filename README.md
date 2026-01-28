@@ -6,15 +6,15 @@ The README is auto-updated with the **latest top 3 items on Hacker News**.
 
 ## Top 3 on Hacker News
 
-_Last update: 2026-01-28T20:11:11.317Z_
+_Last update: 2026-01-28T21:11:16.619Z_
 
-> Boring tasks completed with suspicious enthusiasm.
+> Your future self says thanks.
 
-1. [Microsoft forced me to switch to Linux](https://www.himthe.dev/blog/microsoft-to-linux)     score: 1179 • comments: 961 • by: bobsterlobster • [discussion](https://news.ycombinator.com/item?id=46795864)
+1. [Mousefood – Build embedded terminal UIs for microcontrollers](https://github.com/ratatui/mousefood)     score: 90 • comments: 30 • by: orhunp_ • [discussion](https://news.ycombinator.com/item?id=46798402)
 
-2. [Mousefood – Build embedded terminal UIs for microcontrollers](https://github.com/ratatui/mousefood)     score: 61 • comments: 19 • by: orhunp_ • [discussion](https://news.ycombinator.com/item?id=46798402)
+2. [Airfoil (2024)](https://ciechanow.ski/airfoil/)     score: 272 • comments: 44 • by: brk • [discussion](https://news.ycombinator.com/item?id=46795908)
 
-3. [Airfoil (2024)](https://ciechanow.ski/airfoil/)     score: 244 • comments: 39 • by: brk • [discussion](https://news.ycombinator.com/item?id=46795908)
+3. [Native Linux VST plugin directory](https://linuxmusic.rocks)     score: 21 • comments: 12 • by: Aldipower • [discussion](https://news.ycombinator.com/item?id=46800737)
 
 <!-- HN:END -->
 
