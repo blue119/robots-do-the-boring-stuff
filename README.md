@@ -6,15 +6,15 @@ The README is auto-updated with the **latest top 3 items on Hacker News**.
 
 ## Top 3 on Hacker News
 
-_Last update: 2026-01-28T21:11:16.619Z_
+_Last update: 2026-01-28T22:11:08.313Z_
 
-> Your future self says thanks.
+> Another day, another automation.
 
-1. [Mousefood – Build embedded terminal UIs for microcontrollers](https://github.com/ratatui/mousefood)     score: 90 • comments: 30 • by: orhunp_ • [discussion](https://news.ycombinator.com/item?id=46798402)
+1. [Jellyfin LLM/"AI" Development Policy](https://jellyfin.org/docs/general/contributing/llm-policies/)     score: 47 • comments: 13 • by: mmoogle • [discussion](https://news.ycombinator.com/item?id=46801976)
 
-2. [Airfoil (2024)](https://ciechanow.ski/airfoil/)     score: 272 • comments: 44 • by: brk • [discussion](https://news.ycombinator.com/item?id=46795908)
+2. [How London became the rest of the world’s startup capital](https://www.economist.com/britain/2026/01/26/how-london-became-the-rest-of-the-worlds-startup-capital)     score: 40 • comments: 12 • by: ellieh • [discussion](https://news.ycombinator.com/item?id=46789180)
 
-3. [Native Linux VST plugin directory](https://linuxmusic.rocks)     score: 21 • comments: 12 • by: Aldipower • [discussion](https://news.ycombinator.com/item?id=46800737)
+3. [Mousefood – Build embedded terminal UIs for microcontrollers](https://github.com/ratatui/mousefood)     score: 117 • comments: 33 • by: orhunp_ • [discussion](https://news.ycombinator.com/item?id=46798402)
 
 <!-- HN:END -->
 
