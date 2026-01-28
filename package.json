@@ -1,0 +1,14 @@
+{
+  "name": "robots-do-the-boring-stuff",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "A tiny GitHub-native bot (via Actions) that does boring stuff for you.",
+  "scripts": {
+    "robot": "node ./scripts/robot.mjs",
+    "format": "node ./scripts/robot.mjs --dry-run"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
