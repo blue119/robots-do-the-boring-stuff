@@ -6,15 +6,15 @@ The README is auto-updated with the **latest top 3 items on Hacker News**.
 
 ## Top 3 on Hacker News
 
-_Last update: 2026-01-28T22:11:08.313Z_
+_Last update: 2026-01-28T23:11:10.369Z_
 
-> Another day, another automation.
+> Boring tasks completed with suspicious enthusiasm.
 
-1. [Jellyfin LLM/"AI" Development Policy](https://jellyfin.org/docs/general/contributing/llm-policies/)     score: 47 • comments: 13 • by: mmoogle • [discussion](https://news.ycombinator.com/item?id=46801976)
+1. [Somebody used spoofed ADSB signals to raster the meme of JD Vance](https://alecmuffett.com/article/143548)     score: 142 • comments: 38 • by: wubin • [discussion](https://news.ycombinator.com/item?id=46802067)
 
-2. [How London became the rest of the world’s startup capital](https://www.economist.com/britain/2026/01/26/how-london-became-the-rest-of-the-worlds-startup-capital)     score: 40 • comments: 12 • by: ellieh • [discussion](https://news.ycombinator.com/item?id=46789180)
+2. [Trinity large: An open 400B sparse MoE model](https://www.arcee.ai/blog/trinity-large)     score: 55 • comments: 15 • by: linolevan • [discussion](https://news.ycombinator.com/item?id=46789561)
 
-3. [Mousefood – Build embedded terminal UIs for microcontrollers](https://github.com/ratatui/mousefood)     score: 117 • comments: 33 • by: orhunp_ • [discussion](https://news.ycombinator.com/item?id=46798402)
+3. [Airfoil (2024)](https://ciechanow.ski/airfoil/)     score: 322 • comments: 47 • by: brk • [discussion](https://news.ycombinator.com/item?id=46795908)
 
 <!-- HN:END -->
 
