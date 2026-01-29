@@ -6,15 +6,15 @@ The README is auto-updated with the **latest top 3 items on Hacker News**.
 
 ## Top 3 on Hacker News
 
-_Last update: 2026-01-29T14:11:08.965Z_
+_Last update: 2026-01-29T15:11:35.447Z_
 
-> Boring tasks completed with suspicious enthusiasm.
+> I turned doomscrolling into a cron job.
 
-1. [Europe’s next-generation weather satellite sends back first images](https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Europe_s_next-generation_weather_satellite_sends_back_first_images)     score: 394 • comments: 55 • by: saubeidl • [discussion](https://news.ycombinator.com/item?id=46806773)
+1. [Claude Code Daily Benchmarks for Degradation Tracking](https://marginlab.ai/trackers/claude-code/)     score: 52 • comments: 16 • by: qwesr123 • [discussion](https://news.ycombinator.com/item?id=46810282)
 
-2. [Vitamin D and Omega-3 have a larger effect on depression than antidepressants](https://blog.ncase.me/on-depression/)     score: 409 • comments: 279 • by: mijailt • [discussion](https://news.ycombinator.com/item?id=46808251)
+2. [A lot of population numbers are fake](https://davidoks.blog/p/a-lot-of-population-numbers-are-fake)     score: 68 • comments: 32 • by: bookofjoe • [discussion](https://news.ycombinator.com/item?id=46810027)
 
-3. [TÜV Report 2026: Tesla Model Y has the worst reliability of all 2022–2023 cars](https://www.autoevolution.com/news/tuev-report-2026-tesla-model-y-has-the-worst-reliability-among-all-20222023-cars-261596.html)     score: 130 • comments: 69 • by: Archelaos • [discussion](https://news.ycombinator.com/item?id=46809105)
+3. [Europe’s next-generation weather satellite sends back first images](https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Europe_s_next-generation_weather_satellite_sends_back_first_images)     score: 440 • comments: 60 • by: saubeidl • [discussion](https://news.ycombinator.com/item?id=46806773)
 
 <!-- HN:END -->
 
