@@ -6,15 +6,15 @@ The README is auto-updated with the **latest top 3 items on Hacker News**.
 
 ## Top 3 on Hacker News
 
-_Last update: 2026-01-29T18:11:06.564Z_
+_Last update: 2026-01-29T19:11:07.860Z_
 
-> I turned doomscrolling into a cron job.
+> I checked the boxes so you don't have to.
 
-1. [Claude Code Daily Benchmarks for Degradation Tracking](https://marginlab.ai/trackers/claude-code/)     score: 300 • comments: 159 • by: qwesr123 • [discussion](https://news.ycombinator.com/item?id=46810282)
+1. [Project Genie: Experimenting with infinite, interactive worlds](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie/)     score: 133 • comments: 63 • by: meetpateltech • [discussion](https://news.ycombinator.com/item?id=46812933)
 
-2. [Project Genie: Experimenting with infinite, interactive worlds](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie/)     score: 65 • comments: 21 • by: meetpateltech • [discussion](https://news.ycombinator.com/item?id=46812933)
+2. [Claude Code Daily Benchmarks for Degradation Tracking](https://marginlab.ai/trackers/claude-code/)     score: 353 • comments: 182 • by: qwesr123 • [discussion](https://news.ycombinator.com/item?id=46810282)
 
-3. [Launch HN: AgentMail (YC S25) – An API that gives agents their own email inboxes](https://news.ycombinator.com/item?id=46812608)     score: 39 • comments: 44 • by: Haakam21 • [discussion](https://news.ycombinator.com/item?id=46812608)
+3. [AI's Impact on Engineering Jobs May Be Different Than Expected](https://semiengineering.com/ais-impact-on-engineering-jobs-may-be-different-than-initial-projections/)     score: 30 • comments: 27 • by: rbanffy • [discussion](https://news.ycombinator.com/item?id=46813834)
 
 <!-- HN:END -->
 
