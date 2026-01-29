@@ -6,15 +6,15 @@ The README is auto-updated with the **latest top 3 items on Hacker News**.
 
 ## Top 3 on Hacker News
 
-_Last update: 2026-01-29T03:11:06.938Z_
+_Last update: 2026-01-29T04:11:08.064Z_
 
-> Boring tasks completed with suspicious enthusiasm.
+> Another day, another automation.
 
-1. [Somebody used spoofed ADSB signals to raster the meme of JD Vance](https://alecmuffett.com/article/143548)     score: 394 • comments: 100 • by: wubin • [discussion](https://news.ycombinator.com/item?id=46802067)
+1. [Render Mermaid diagrams as SVGs or ASCII art](https://github.com/lukilabs/beautiful-mermaid)     score: 79 • comments: 11 • by: mellosouls • [discussion](https://news.ycombinator.com/item?id=46804828)
 
-2. [The UK paid £4.1M for a bookmarks site](https://mahadk.com/posts/ai-skills-hub)     score: 241 • comments: 66 • by: JustSkyfall • [discussion](https://news.ycombinator.com/item?id=46803119)
+2. [Maine’s ‘Lobster Lady’ who fished for nearly a century dies aged 105](https://www.theguardian.com/us-news/2026/jan/28/maine-lobster-lady-dies-aged-105)     score: 47 • comments: 3 • by: NaOH • [discussion](https://news.ycombinator.com/item?id=46804854)
 
-3. [Beautiful Mermaid](https://github.com/lukilabs/beautiful-mermaid)     score: 38 • comments: 3 • by: mellosouls • [discussion](https://news.ycombinator.com/item?id=46804828)
+3. [Mecha Comet – Open Modular Linux Handheld Computer](https://mecha.so/comet)     score: 39 • comments: 12 • by: Realman78 • [discussion](https://news.ycombinator.com/item?id=46758652)
 
 <!-- HN:END -->
 
