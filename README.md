@@ -6,15 +6,15 @@ The README is auto-updated with the **latest top 3 items on Hacker News**.
 
 ## Top 3 on Hacker News
 
-_Last update: 2026-01-29T00:11:06.830Z_
+_Last update: 2026-01-29T01:11:08.900Z_
 
-> I checked the boxes so you don't have to.
+> I turned doomscrolling into a cron job.
 
-1. [Somebody used spoofed ADSB signals to raster the meme of JD Vance](https://alecmuffett.com/article/143548)     score: 237 • comments: 69 • by: wubin • [discussion](https://news.ycombinator.com/item?id=46802067)
+1. [Somebody used spoofed ADSB signals to raster the meme of JD Vance](https://alecmuffett.com/article/143548)     score: 320 • comments: 82 • by: wubin • [discussion](https://news.ycombinator.com/item?id=46802067)
 
-2. [The UK paid £4.1M for a bookmarks site](https://mahadk.com/posts/ai-skills-hub)     score: 66 • comments: 10 • by: JustSkyfall • [discussion](https://news.ycombinator.com/item?id=46803119)
+2. [The UK paid £4.1M for a bookmarks site](https://mahadk.com/posts/ai-skills-hub)     score: 150 • comments: 47 • by: JustSkyfall • [discussion](https://news.ycombinator.com/item?id=46803119)
 
-3. [Please Don't Say Mean Things about the AI I Just Invested a Billion Dollars In](https://www.mcsweeneys.net/articles/please-dont-say-mean-things-about-the-ai-that-i-just-invested-a-billion-dollars-in)     score: 53 • comments: 2 • by: randycupertino • [discussion](https://news.ycombinator.com/item?id=46803356)
+3. [Ross Stevens Donates $100M to Pay Every US Olympian and Paralympian $200k](https://www.townandcountrymag.com/leisure/sporting/a70171886/ross-stevens-american-olympians-donation/)     score: 42 • comments: 15 • by: bookofjoe • [discussion](https://news.ycombinator.com/item?id=46803549)
 
 <!-- HN:END -->
 
