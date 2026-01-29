@@ -6,15 +6,15 @@ The README is auto-updated with the **latest top 3 items on Hacker News**.
 
 ## Top 3 on Hacker News
 
-_Last update: 2026-01-29T13:11:07.390Z_
+_Last update: 2026-01-29T14:11:08.965Z_
 
-> I turned doomscrolling into a cron job.
+> Boring tasks completed with suspicious enthusiasm.
 
-1. [Europe’s next-generation weather satellite sends back first images](https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Europe_s_next-generation_weather_satellite_sends_back_first_images)     score: 335 • comments: 49 • by: saubeidl • [discussion](https://news.ycombinator.com/item?id=46806773)
+1. [Europe’s next-generation weather satellite sends back first images](https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Europe_s_next-generation_weather_satellite_sends_back_first_images)     score: 394 • comments: 55 • by: saubeidl • [discussion](https://news.ycombinator.com/item?id=46806773)
 
-2. [Vitamin D and Omega-3 have a larger effect on depression than antidepressants](https://blog.ncase.me/on-depression/)     score: 315 • comments: 209 • by: mijailt • [discussion](https://news.ycombinator.com/item?id=46808251)
+2. [Vitamin D and Omega-3 have a larger effect on depression than antidepressants](https://blog.ncase.me/on-depression/)     score: 409 • comments: 279 • by: mijailt • [discussion](https://news.ycombinator.com/item?id=46808251)
 
-3. [The tech market is fundamentally fucked up and AI is just a scapegoat](https://bayramovanar.substack.com/p/tech-market-is-fucked-up)     score: 100 • comments: 57 • by: Bayramovanar • [discussion](https://news.ycombinator.com/item?id=46809069)
+3. [TÜV Report 2026: Tesla Model Y has the worst reliability of all 2022–2023 cars](https://www.autoevolution.com/news/tuev-report-2026-tesla-model-y-has-the-worst-reliability-among-all-20222023-cars-261596.html)     score: 130 • comments: 69 • by: Archelaos • [discussion](https://news.ycombinator.com/item?id=46809105)
 
 <!-- HN:END -->
 
