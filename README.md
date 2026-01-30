@@ -6,15 +6,15 @@ The README is auto-updated with the **latest top 3 items on Hacker News**.
 
 ## Top 3 on Hacker News
 
-_Last update: 2026-01-30T17:11:05.156Z_
+_Last update: 2026-01-30T18:11:07.483Z_
 
-> Your future self says thanks.
+> I checked the boxes so you don't have to.
 
-1. [Show HN: Amla Sandbox – WASM bash shell sandbox for AI agents](https://github.com/amlalabs/amla-sandbox)     score: 43 • comments: 28 • by: souvik1997 • [discussion](https://news.ycombinator.com/item?id=46824877)
+1. [Microsoft Just Killed the "Cover for Me" Excuse: 365 Now Tracks You in Real-Time](https://ztechtalk.com/microsoft-teams)     score: 121 • comments: 104 • by: imalerba • [discussion](https://news.ycombinator.com/item?id=46827003)
 
-2. [Buttered Crumpet, a custom typeface for Wallace and Gromit](https://jamieclarketype.com/case-study/wallace-and-gromit-font/)     score: 120 • comments: 25 • by: tobr • [discussion](https://news.ycombinator.com/item?id=46825415)
+2. [Moltbook is the most interesting place on the internet](https://simonwillison.net/2026/Jan/30/moltbook/)     score: 34 • comments: 33 • by: swolpers • [discussion](https://news.ycombinator.com/item?id=46826963)
 
-3. [Moltbook](https://www.moltbook.com/)     score: 831 • comments: 430 • by: teej • [discussion](https://news.ycombinator.com/item?id=46820360)
+3. [Show HN: Amla Sandbox – WASM bash shell sandbox for AI agents](https://github.com/amlalabs/amla-sandbox)     score: 64 • comments: 36 • by: souvik1997 • [discussion](https://news.ycombinator.com/item?id=46824877)
 
 <!-- HN:END -->
 
