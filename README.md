@@ -6,15 +6,15 @@ The README is auto-updated with the **latest top 3 items on Hacker News**.
 
 ## Top 3 on Hacker News
 
-_Last update: 2026-01-30T13:11:07.344Z_
+_Last update: 2026-01-30T14:11:05.513Z_
 
-> I turned doomscrolling into a cron job.
+> Another day, another automation.
 
-1. [Moltbook](https://www.moltbook.com/)     score: 586 • comments: 327 • by: teej • [discussion](https://news.ycombinator.com/item?id=46820360)
+1. [Wisconsin communities signed secrecy deals for billion-dollar data centers](https://www.wpr.org/news/4-wisconsin-communities-signed-secrecy-deals-billion-dollar-data-centers)     score: 52 • comments: 21 • by: sseagull • [discussion](https://news.ycombinator.com/item?id=46824098)
 
-2. [Software Pump and Dump](http://tautvilas.lt/software-pump-and-dump/)     score: 168 • comments: 45 • by: brisky • [discussion](https://news.ycombinator.com/item?id=46776848)
+2. [Norway EV Push Nears 100 Percent: What's Next?](https://spectrum.ieee.org/norway-ev-policy-electric-vehicles)     score: 43 • comments: 26 • by: rbanffy • [discussion](https://news.ycombinator.com/item?id=46824017)
 
-3. [Netflix Animation Studios Joins the Blender Development Fund as Corporate Patron](https://www.blender.org/press/netflix-animation-studios-joins-the-blender-development-fund-as-corporate-patron/)     score: 150 • comments: 8 • by: vidyesh • [discussion](https://news.ycombinator.com/item?id=46821134)
+3. [Moltbook](https://www.moltbook.com/)     score: 636 • comments: 346 • by: teej • [discussion](https://news.ycombinator.com/item?id=46820360)
 
 <!-- HN:END -->
 
