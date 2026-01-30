@@ -6,15 +6,15 @@ The README is auto-updated with the **latest top 3 items on Hacker News**.
 
 ## Top 3 on Hacker News
 
-_Last update: 2026-01-30T16:11:06.025Z_
+_Last update: 2026-01-30T17:11:05.156Z_
 
-> I checked the boxes so you don't have to.
+> Your future self says thanks.
 
-1. [Buttered Crumpet, a custom typeface for Wallace and Gromit](https://jamieclarketype.com/case-study/wallace-and-gromit-font/)     score: 57 • comments: 6 • by: tobr • [discussion](https://news.ycombinator.com/item?id=46825415)
+1. [Show HN: Amla Sandbox – WASM bash shell sandbox for AI agents](https://github.com/amlalabs/amla-sandbox)     score: 43 • comments: 28 • by: souvik1997 • [discussion](https://news.ycombinator.com/item?id=46824877)
 
-2. [Moltbook](https://www.moltbook.com/)     score: 772 • comments: 399 • by: teej • [discussion](https://news.ycombinator.com/item?id=46820360)
+2. [Buttered Crumpet, a custom typeface for Wallace and Gromit](https://jamieclarketype.com/case-study/wallace-and-gromit-font/)     score: 120 • comments: 25 • by: tobr • [discussion](https://news.ycombinator.com/item?id=46825415)
 
-3. [Show HN: Amla Sandbox – WASM bash shell sandbox for AI agents](https://github.com/amlalabs/amla-sandbox)     score: 15 • comments: 18 • by: souvik1997 • [discussion](https://news.ycombinator.com/item?id=46824877)
+3. [Moltbook](https://www.moltbook.com/)     score: 831 • comments: 430 • by: teej • [discussion](https://news.ycombinator.com/item?id=46820360)
 
 <!-- HN:END -->
 
