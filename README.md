@@ -6,15 +6,15 @@ The README is auto-updated with the **latest top 3 items on Hacker News**.
 
 ## Top 3 on Hacker News
 
-_Last update: 2026-01-30T19:11:09.237Z_
+_Last update: 2026-01-30T20:11:10.811Z_
 
-> Boring tasks completed with suspicious enthusiasm.
+> I turned doomscrolling into a cron job.
 
-1. [ClawdBot Skills ganked all my crypto](https://opensourcemalware.com/blog/clawdbot-skills-ganked-your-crypto)     score: 114 • comments: 56 • by: 6mile • [discussion](https://news.ycombinator.com/item?id=46827731)
+1. [Kimi K2.5 Technical Report [pdf]](https://github.com/MoonshotAI/Kimi-K2.5/blob/master/tech_report.pdf)     score: 60 • comments: 20 • by: vinhnx • [discussion](https://news.ycombinator.com/item?id=46826597)
 
-2. [Microsoft Just Killed the "Cover for Me" Excuse: 365 Now Tracks You in Real-Time](https://ztechtalk.com/microsoft-teams)     score: 254 • comments: 215 • by: imalerba • [discussion](https://news.ycombinator.com/item?id=46827003)
+2. [The National Herbarium of Ireland digital collection of Irish plants](https://dri.ie/news/new-collection-in-dri-the-national-herbarium-of-ireland-digital-collection-of-irish-plants/)     score: 56 • comments: 6 • by: gnabgib • [discussion](https://news.ycombinator.com/item?id=46782412)
 
-3. [Moltbook](https://www.moltbook.com/)     score: 976 • comments: 488 • by: teej • [discussion](https://news.ycombinator.com/item?id=46820360)
+3. [Moltbook](https://www.moltbook.com/)     score: 1047 • comments: 513 • by: teej • [discussion](https://news.ycombinator.com/item?id=46820360)
 
 <!-- HN:END -->
 
