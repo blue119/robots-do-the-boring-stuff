@@ -6,15 +6,15 @@ The README is auto-updated with the **latest top 3 items on Hacker News**.
 
 ## Top 3 on Hacker News
 
-_Last update: 2026-01-30T21:11:08.415Z_
+_Last update: 2026-01-30T22:11:08.368Z_
 
-> Another day, another automation.
+> Your future self says thanks.
 
-1. [Antirender: remove the glossy shine on architectural renderings](https://antirender.com/)     score: 226 • comments: 57 • by: iambateman • [discussion](https://news.ycombinator.com/item?id=46829147)
+1. [Antirender: remove the glossy shine on architectural renderings](https://antirender.com/)     score: 394 • comments: 106 • by: iambateman • [discussion](https://news.ycombinator.com/item?id=46829147)
 
-2. [Bluesky 2025 Transparency Report](https://bsky.social/about/blog/01-29-2026-transparency-report-2025)     score: 34 • comments: 12 • by: emschwartz • [discussion](https://news.ycombinator.com/item?id=46818593)
+2. [Peerweb: Decentralized website hosting via WebTorrent](https://peerweb.lol/)     score: 65 • comments: 28 • by: dtj1123 • [discussion](https://news.ycombinator.com/item?id=46829582)
 
-3. [Kimi K2.5 Technical Report [pdf]](https://github.com/MoonshotAI/Kimi-K2.5/blob/master/tech_report.pdf)     score: 106 • comments: 46 • by: vinhnx • [discussion](https://news.ycombinator.com/item?id=46826597)
+3. [Software Survival 3.0](https://steve-yegge.medium.com/software-survival-3-0-97a2a6255f7b)     score: 56 • comments: 27 • by: jaybrueder • [discussion](https://news.ycombinator.com/item?id=46807796)
 
 <!-- HN:END -->
 
