@@ -6,15 +6,15 @@ The README is auto-updated with the **latest top 3 items on Hacker News**.
 
 ## Top 3 on Hacker News
 
-_Last update: 2026-01-30T09:11:05.011Z_
+_Last update: 2026-01-30T10:11:06.730Z_
 
-> Boring tasks completed with suspicious enthusiasm.
+> Another day, another automation.
 
-1. [Moltbook](https://www.moltbook.com/)     score: 346 • comments: 167 • by: teej • [discussion](https://news.ycombinator.com/item?id=46820360)
+1. [Moltbook](https://www.moltbook.com/)     score: 425 • comments: 202 • by: teej • [discussion](https://news.ycombinator.com/item?id=46820360)
 
-2. [OpenClaw – Moltbot Renamed Again](https://openclaw.ai/blog/introducing-openclaw)     score: 124 • comments: 42 • by: ed • [discussion](https://news.ycombinator.com/item?id=46820783)
+2. [OpenClaw – Moltbot Renamed Again](https://openclaw.ai/blog/introducing-openclaw)     score: 180 • comments: 65 • by: ed • [discussion](https://news.ycombinator.com/item?id=46820783)
 
-3. [How AI Impacts Skill Formation](https://arxiv.org/abs/2601.20245)     score: 63 • comments: 28 • by: northfield27 • [discussion](https://news.ycombinator.com/item?id=46821360)
+3. [Software Pump and Dump](http://tautvilas.lt/software-pump-and-dump/)     score: 45 • comments: 4 • by: brisky • [discussion](https://news.ycombinator.com/item?id=46776848)
 
 <!-- HN:END -->
 
