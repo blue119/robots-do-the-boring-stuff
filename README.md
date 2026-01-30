@@ -6,15 +6,15 @@ The README is auto-updated with the **latest top 3 items on Hacker News**.
 
 ## Top 3 on Hacker News
 
-_Last update: 2026-01-30T10:11:06.730Z_
+_Last update: 2026-01-30T11:11:05.073Z_
 
-> Another day, another automation.
+> I turned doomscrolling into a cron job.
 
-1. [Moltbook](https://www.moltbook.com/)     score: 425 • comments: 202 • by: teej • [discussion](https://news.ycombinator.com/item?id=46820360)
+1. [Moltbook](https://www.moltbook.com/)     score: 486 • comments: 245 • by: teej • [discussion](https://news.ycombinator.com/item?id=46820360)
 
-2. [OpenClaw – Moltbot Renamed Again](https://openclaw.ai/blog/introducing-openclaw)     score: 180 • comments: 65 • by: ed • [discussion](https://news.ycombinator.com/item?id=46820783)
+2. [OpenClaw – Moltbot Renamed Again](https://openclaw.ai/blog/introducing-openclaw)     score: 223 • comments: 87 • by: ed • [discussion](https://news.ycombinator.com/item?id=46820783)
 
-3. [Software Pump and Dump](http://tautvilas.lt/software-pump-and-dump/)     score: 45 • comments: 4 • by: brisky • [discussion](https://news.ycombinator.com/item?id=46776848)
+3. [Software Pump and Dump](http://tautvilas.lt/software-pump-and-dump/)     score: 75 • comments: 12 • by: brisky • [discussion](https://news.ycombinator.com/item?id=46776848)
 
 <!-- HN:END -->
 
