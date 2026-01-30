@@ -6,15 +6,15 @@ The README is auto-updated with the **latest top 3 items on Hacker News**.
 
 ## Top 3 on Hacker News
 
-_Last update: 2026-01-30T12:11:07.130Z_
+_Last update: 2026-01-30T13:11:07.344Z_
 
 > I turned doomscrolling into a cron job.
 
-1. [Moltbook](https://www.moltbook.com/)     score: 536 • comments: 292 • by: teej • [discussion](https://news.ycombinator.com/item?id=46820360)
+1. [Moltbook](https://www.moltbook.com/)     score: 586 • comments: 327 • by: teej • [discussion](https://news.ycombinator.com/item?id=46820360)
 
-2. [Software Pump and Dump](http://tautvilas.lt/software-pump-and-dump/)     score: 105 • comments: 25 • by: brisky • [discussion](https://news.ycombinator.com/item?id=46776848)
+2. [Software Pump and Dump](http://tautvilas.lt/software-pump-and-dump/)     score: 168 • comments: 45 • by: brisky • [discussion](https://news.ycombinator.com/item?id=46776848)
 
-3. [OpenClaw – Moltbot Renamed Again](https://openclaw.ai/blog/introducing-openclaw)     score: 254 • comments: 110 • by: ed • [discussion](https://news.ycombinator.com/item?id=46820783)
+3. [Netflix Animation Studios Joins the Blender Development Fund as Corporate Patron](https://www.blender.org/press/netflix-animation-studios-joins-the-blender-development-fund-as-corporate-patron/)     score: 150 • comments: 8 • by: vidyesh • [discussion](https://news.ycombinator.com/item?id=46821134)
 
 <!-- HN:END -->
 
