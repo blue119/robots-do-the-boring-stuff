@@ -6,15 +6,15 @@ The README is auto-updated with the **latest top 3 items on Hacker News**.
 
 ## Top 3 on Hacker News
 
-_Last update: 2026-01-30T14:11:05.513Z_
+_Last update: 2026-01-30T15:11:25.933Z_
 
-> Another day, another automation.
+> Boring tasks completed with suspicious enthusiasm.
 
-1. [Wisconsin communities signed secrecy deals for billion-dollar data centers](https://www.wpr.org/news/4-wisconsin-communities-signed-secrecy-deals-billion-dollar-data-centers)     score: 52 • comments: 21 • by: sseagull • [discussion](https://news.ycombinator.com/item?id=46824098)
+1. [Wisconsin communities signed secrecy deals for billion-dollar data centers](https://www.wpr.org/news/4-wisconsin-communities-signed-secrecy-deals-billion-dollar-data-centers)     score: 136 • comments: 109 • by: sseagull • [discussion](https://news.ycombinator.com/item?id=46824098)
 
-2. [Norway EV Push Nears 100 Percent: What's Next?](https://spectrum.ieee.org/norway-ev-policy-electric-vehicles)     score: 43 • comments: 26 • by: rbanffy • [discussion](https://news.ycombinator.com/item?id=46824017)
+2. [Where I'm at with AI](https://paulosman.me/2026/01/18/where-im-at-with-ai/)     score: 9 • comments: 0 • by: crashwhip • [discussion](https://news.ycombinator.com/item?id=46824925)
 
-3. [Moltbook](https://www.moltbook.com/)     score: 636 • comments: 346 • by: teej • [discussion](https://news.ycombinator.com/item?id=46820360)
+3. [Netflix Animation Studios Joins the Blender Development Fund as Corporate Patron](https://www.blender.org/press/netflix-animation-studios-joins-the-blender-development-fund-as-corporate-patron/)     score: 264 • comments: 34 • by: vidyesh • [discussion](https://news.ycombinator.com/item?id=46821134)
 
 <!-- HN:END -->
 
