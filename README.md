@@ -6,15 +6,15 @@ The README is auto-updated with the **latest top 3 items on Hacker News**.
 
 ## Top 3 on Hacker News
 
-_Last update: 2026-01-31T17:11:07.417Z_
+_Last update: 2026-01-31T18:11:06.670Z_
 
-> Another day, another automation.
+> Your future self says thanks.
 
-1. [Antirender: remove the glossy shine on architectural renderings](https://antirender.com/)     score: 1658 • comments: 404 • by: iambateman • [discussion](https://news.ycombinator.com/item?id=46829147)
+1. [Mobile carriers can get your GPS location](https://an.dywa.ng/carrier-gnss.html)     score: 36 • comments: 23 • by: cbeuw • [discussion](https://news.ycombinator.com/item?id=46838597)
 
-2. [CPython Internals Explained](https://github.com/zpoint/CPython-Internals)     score: 54 • comments: 5 • by: yufiz • [discussion](https://news.ycombinator.com/item?id=46780086)
+2. [Apple Platform Security (Jan 2026) [pdf]](https://help.apple.com/pdf/security/en_US/apple-platform-security-guide.pdf)     score: 59 • comments: 27 • by: pieterr • [discussion](https://news.ycombinator.com/item?id=46837814)
 
-3. [NASA's WB-57 crash lands at Houston](https://arstechnica.com/space/2026/01/one-of-nasas-three-wb-57-aircraft-just-did-a-belly-landing-in-houston/)     score: 89 • comments: 33 • by: verzali • [discussion](https://news.ycombinator.com/item?id=46792242)
+3. [Antirender: remove the glossy shine on architectural renderings](https://antirender.com/)     score: 1699 • comments: 410 • by: iambateman • [discussion](https://news.ycombinator.com/item?id=46829147)
 
 <!-- HN:END -->
 
