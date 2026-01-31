@@ -6,15 +6,15 @@ The README is auto-updated with the **latest top 3 items on Hacker News**.
 
 ## Top 3 on Hacker News
 
-_Last update: 2026-01-31T18:11:06.670Z_
+_Last update: 2026-01-31T19:11:05.835Z_
 
-> Your future self says thanks.
+> Another day, another automation.
 
-1. [Mobile carriers can get your GPS location](https://an.dywa.ng/carrier-gnss.html)     score: 36 • comments: 23 • by: cbeuw • [discussion](https://news.ycombinator.com/item?id=46838597)
+1. [Mobile carriers can get your GPS location](https://an.dywa.ng/carrier-gnss.html)     score: 127 • comments: 86 • by: cbeuw • [discussion](https://news.ycombinator.com/item?id=46838597)
 
-2. [Apple Platform Security (Jan 2026) [pdf]](https://help.apple.com/pdf/security/en_US/apple-platform-security-guide.pdf)     score: 59 • comments: 27 • by: pieterr • [discussion](https://news.ycombinator.com/item?id=46837814)
+2. [Genode OS is a tool kit for building highly secure special-purpose OS](https://genode.org/about/index)     score: 31 • comments: 1 • by: doener • [discussion](https://news.ycombinator.com/item?id=46838981)
 
-3. [Antirender: remove the glossy shine on architectural renderings](https://antirender.com/)     score: 1699 • comments: 410 • by: iambateman • [discussion](https://news.ycombinator.com/item?id=46829147)
+3. [Antirender: remove the glossy shine on architectural renderings](https://antirender.com/)     score: 1728 • comments: 415 • by: iambateman • [discussion](https://news.ycombinator.com/item?id=46829147)
 
 <!-- HN:END -->
 
