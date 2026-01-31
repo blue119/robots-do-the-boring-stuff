@@ -6,15 +6,15 @@ The README is auto-updated with the **latest top 3 items on Hacker News**.
 
 ## Top 3 on Hacker News
 
-_Last update: 2026-01-31T11:11:08.406Z_
+_Last update: 2026-01-31T12:11:05.612Z_
 
 > I turned doomscrolling into a cron job.
 
-1. [Antirender: remove the glossy shine on architectural renderings](https://antirender.com/)     score: 1294 • comments: 300 • by: iambateman • [discussion](https://news.ycombinator.com/item?id=46829147)
+1. [Antirender: remove the glossy shine on architectural renderings](https://antirender.com/)     score: 1329 • comments: 313 • by: iambateman • [discussion](https://news.ycombinator.com/item?id=46829147)
 
-2. [Automatic Programming](https://antirez.com/news/159)     score: 27 • comments: 9 • by: dvrp • [discussion](https://news.ycombinator.com/item?id=46835208)
+2. [Automatic Programming](https://antirez.com/news/159)     score: 102 • comments: 65 • by: dvrp • [discussion](https://news.ycombinator.com/item?id=46835208)
 
-3. [Sumerian Star Map Recorded the Impact of an Asteroid (2024)](https://archaeologyworlds.com/5500-year-old-sumerian-star-map-recorded/)     score: 48 • comments: 17 • by: griffzhowl • [discussion](https://news.ycombinator.com/item?id=46834313)
+3. [Euro firms must ditch Uncle Sam's clouds and go EU-native](https://www.theregister.com/2026/01/30/euro_firms_must_ditch_us/)     score: 93 • comments: 40 • by: jamesblonde • [discussion](https://news.ycombinator.com/item?id=46835336)
 
 <!-- HN:END -->
 
