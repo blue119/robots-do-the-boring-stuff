@@ -6,15 +6,15 @@ The README is auto-updated with the **latest top 3 items on Hacker News**.
 
 ## Top 3 on Hacker News
 
-_Last update: 2026-01-31T13:11:06.126Z_
+_Last update: 2026-01-31T14:11:08.362Z_
 
-> Your future self says thanks.
+> I ran the checklist. No applause needed.
 
-1. [Antirender: remove the glossy shine on architectural renderings](https://antirender.com/)     score: 1389 • comments: 336 • by: iambateman • [discussion](https://news.ycombinator.com/item?id=46829147)
+1. [Antirender: remove the glossy shine on architectural renderings](https://antirender.com/)     score: 1453 • comments: 367 • by: iambateman • [discussion](https://news.ycombinator.com/item?id=46829147)
 
-2. [Euro firms must ditch Uncle Sam's clouds and go EU-native](https://www.theregister.com/2026/01/30/euro_firms_must_ditch_us/)     score: 220 • comments: 154 • by: jamesblonde • [discussion](https://news.ycombinator.com/item?id=46835336)
+2. [We have ipinfo at home or how to geolocate IPs in your CLI using latency](https://blog.globalping.io/we-have-ipinfo-at-home-or-how-to-geolocate-ips-in-your-cli-using-latency/)     score: 67 • comments: 14 • by: jimaek • [discussion](https://news.ycombinator.com/item?id=46834953)
 
-3. [We have ipinfo at home or how to geolocate IPs in your CLI using latency](https://blog.globalping.io/we-have-ipinfo-at-home-or-how-to-geolocate-ips-in-your-cli-using-latency/)     score: 39 • comments: 10 • by: jimaek • [discussion](https://news.ycombinator.com/item?id=46834953)
+3. [Euro firms must ditch Uncle Sam's clouds and go EU-native](https://www.theregister.com/2026/01/30/euro_firms_must_ditch_us/)     score: 337 • comments: 272 • by: jamesblonde • [discussion](https://news.ycombinator.com/item?id=46835336)
 
 <!-- HN:END -->
 
