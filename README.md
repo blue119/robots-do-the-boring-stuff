@@ -6,15 +6,15 @@ The README is auto-updated with the **latest top 3 items on Hacker News**.
 
 ## Top 3 on Hacker News
 
-_Last update: 2026-01-31T02:11:07.339Z_
+_Last update: 2026-01-31T03:11:05.099Z_
 
 > I ran the checklist. No applause needed.
 
-1. [Antirender: remove the glossy shine on architectural renderings](https://antirender.com/)     score: 777 • comments: 183 • by: iambateman • [discussion](https://news.ycombinator.com/item?id=46829147)
+1. [Antirender: remove the glossy shine on architectural renderings](https://antirender.com/)     score: 829 • comments: 194 • by: iambateman • [discussion](https://news.ycombinator.com/item?id=46829147)
 
-2. [Show HN: I trained a 9M speech model to fix my Mandarin tones](https://simedw.com/2026/01/31/ear-pronunication-via-ctc/)     score: 58 • comments: 9 • by: simedw • [discussion](https://news.ycombinator.com/item?id=46832074)
+2. [Show HN: I trained a 9M speech model to fix my Mandarin tones](https://simedw.com/2026/01/31/ear-pronunication-via-ctc/)     score: 92 • comments: 28 • by: simedw • [discussion](https://news.ycombinator.com/item?id=46832074)
 
-3. [Peerweb: Decentralized website hosting via WebTorrent](https://peerweb.lol/)     score: 175 • comments: 63 • by: dtj1123 • [discussion](https://news.ycombinator.com/item?id=46829582)
+3. [Peerweb: Decentralized website hosting via WebTorrent](https://peerweb.lol/)     score: 186 • comments: 67 • by: dtj1123 • [discussion](https://news.ycombinator.com/item?id=46829582)
 
 <!-- HN:END -->
 
