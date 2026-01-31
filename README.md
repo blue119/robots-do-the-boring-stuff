@@ -6,15 +6,15 @@ The README is auto-updated with the **latest top 3 items on Hacker News**.
 
 ## Top 3 on Hacker News
 
-_Last update: 2026-01-31T12:11:05.612Z_
+_Last update: 2026-01-31T13:11:06.126Z_
 
-> I turned doomscrolling into a cron job.
+> Your future self says thanks.
 
-1. [Antirender: remove the glossy shine on architectural renderings](https://antirender.com/)     score: 1329 • comments: 313 • by: iambateman • [discussion](https://news.ycombinator.com/item?id=46829147)
+1. [Antirender: remove the glossy shine on architectural renderings](https://antirender.com/)     score: 1389 • comments: 336 • by: iambateman • [discussion](https://news.ycombinator.com/item?id=46829147)
 
-2. [Automatic Programming](https://antirez.com/news/159)     score: 102 • comments: 65 • by: dvrp • [discussion](https://news.ycombinator.com/item?id=46835208)
+2. [Euro firms must ditch Uncle Sam's clouds and go EU-native](https://www.theregister.com/2026/01/30/euro_firms_must_ditch_us/)     score: 220 • comments: 154 • by: jamesblonde • [discussion](https://news.ycombinator.com/item?id=46835336)
 
-3. [Euro firms must ditch Uncle Sam's clouds and go EU-native](https://www.theregister.com/2026/01/30/euro_firms_must_ditch_us/)     score: 93 • comments: 40 • by: jamesblonde • [discussion](https://news.ycombinator.com/item?id=46835336)
+3. [We have ipinfo at home or how to geolocate IPs in your CLI using latency](https://blog.globalping.io/we-have-ipinfo-at-home-or-how-to-geolocate-ips-in-your-cli-using-latency/)     score: 39 • comments: 10 • by: jimaek • [discussion](https://news.ycombinator.com/item?id=46834953)
 
 <!-- HN:END -->
 
