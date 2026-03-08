@@ -6,15 +6,15 @@ The README is auto-updated with the **latest top 3 items on Hacker News**.
 
 ## Top 3 on Hacker News
 
-_Last update: 2026-02-01T01:11:05.231Z_
+_Last update: 2026-03-08T07:54:04.007Z_
 
-> Boring tasks completed with suspicious enthusiasm.
+> I ran the checklist. No applause needed.
 
-1. [Mobile carriers can get your GPS location](https://an.dywa.ng/carrier-gnss.html)     score: 411 • comments: 273 • by: cbeuw • [discussion](https://news.ycombinator.com/item?id=46838597)
+1. [Cloud VM benchmarks 2026](https://devblog.ecuadors.net/cloud-vm-benchmarks-2026-performance-price-1i1m.html)     score: 185 • comments: 86 • by: dkechag • [discussion](https://news.ycombinator.com/item?id=47293119)
 
-2. [Scientist who helped eradicate smallpox dies at age 89](https://www.scientificamerican.com/article/smallpox-eradication-champion-william-foege-dies-at-89/)     score: 57 • comments: 15 • by: CrossVR • [discussion](https://news.ycombinator.com/item?id=46793313)
+2. ["Warn about PyPy being unmaintained"](https://github.com/astral-sh/uv/pull/17643)     score: 129 • comments: 35 • by: networked • [discussion](https://news.ycombinator.com/item?id=47293415)
 
-3. [Generative AI and Wikipedia editing: What we learned in 2025](https://wikiedu.org/blog/2026/01/29/generative-ai-and-wikipedia-editing-what-we-learned-in-2025/)     score: 58 • comments: 27 • by: ColinWright • [discussion](https://news.ycombinator.com/item?id=46840924)
+3. [CasNum](https://github.com/0x0mer/CasNum)     score: 268 • comments: 35 • by: aebtebeten • [discussion](https://news.ycombinator.com/item?id=47291292)
 
 <!-- HN:END -->
 
