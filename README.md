@@ -6,15 +6,15 @@ The README is auto-updated with the **latest top 3 items on Hacker News**.
 
 ## Top 3 on Hacker News
 
-_Last update: 2026-03-08T10:11:14.512Z_
+_Last update: 2026-03-08T11:11:06.326Z_
 
-> Your future self says thanks.
+> Boring tasks completed with suspicious enthusiasm.
 
-1. [SWE-CI: Evaluating Agent Capabilities in Maintaining Codebases via CI](https://arxiv.org/abs/2603.03823)     score: 38 • comments: 3 • by: mpweiher • [discussion](https://news.ycombinator.com/item?id=47295537)
+1. [SWE-CI: Evaluating Agent Capabilities in Maintaining Codebases via CI](https://arxiv.org/abs/2603.03823)     score: 52 • comments: 6 • by: mpweiher • [discussion](https://news.ycombinator.com/item?id=47295537)
 
-2. [Cloud VM benchmarks 2026](https://devblog.ecuadors.net/cloud-vm-benchmarks-2026-performance-price-1i1m.html)     score: 233 • comments: 101 • by: dkechag • [discussion](https://news.ycombinator.com/item?id=47293119)
+2. [Notes on Writing WASM](https://notes.brooklynzelenka.com/Blog/Notes-on-Writing-Wasm)     score: 14 • comments: 0 • by: vinhnx • [discussion](https://news.ycombinator.com/item?id=47295837)
 
-3. ["Warn about PyPy being unmaintained"](https://github.com/astral-sh/uv/pull/17643)     score: 182 • comments: 64 • by: networked • [discussion](https://news.ycombinator.com/item?id=47293415)
+3. [Rijksmuseum researchers discover new painting by Rembrandt van Rijn](https://www.rijksmuseum.nl/en/press/press-releases/rijksmuseum-researchers-discover-new-painting-by-rembrandt-van-rijn)     score: 32 • comments: 3 • by: ohjeez • [discussion](https://news.ycombinator.com/item?id=47249139)
 
 <!-- HN:END -->
 
