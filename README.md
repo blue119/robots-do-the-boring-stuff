@@ -6,15 +6,15 @@ The README is auto-updated with the **latest top 3 items on Hacker News**.
 
 ## Top 3 on Hacker News
 
-_Last update: 2026-03-08T08:11:12.639Z_
+_Last update: 2026-03-08T09:11:10.348Z_
 
-> Another day, another automation.
+> I checked the boxes so you don't have to.
 
-1. [Cloud VM benchmarks 2026](https://devblog.ecuadors.net/cloud-vm-benchmarks-2026-performance-price-1i1m.html)     score: 192 • comments: 86 • by: dkechag • [discussion](https://news.ycombinator.com/item?id=47293119)
+1. [SWE-CI: Evaluating Agent Capabilities in Maintaining Codebases via CI](https://arxiv.org/abs/2603.03823)     score: 20 • comments: 2 • by: mpweiher • [discussion](https://news.ycombinator.com/item?id=47295537)
 
-2. ["Warn about PyPy being unmaintained"](https://github.com/astral-sh/uv/pull/17643)     score: 138 • comments: 40 • by: networked • [discussion](https://news.ycombinator.com/item?id=47293415)
+2. [Cloud VM benchmarks 2026](https://devblog.ecuadors.net/cloud-vm-benchmarks-2026-performance-price-1i1m.html)     score: 212 • comments: 97 • by: dkechag • [discussion](https://news.ycombinator.com/item?id=47293119)
 
-3. [From RGB to L*a*b* color space (2024)](https://kaizoudou.com/from-rgb-to-lab-color-space/)     score: 12 • comments: 0 • by: kqr • [discussion](https://news.ycombinator.com/item?id=47245061)
+3. ["Warn about PyPy being unmaintained"](https://github.com/astral-sh/uv/pull/17643)     score: 159 • comments: 48 • by: networked • [discussion](https://news.ycombinator.com/item?id=47293415)
 
 <!-- HN:END -->
 
