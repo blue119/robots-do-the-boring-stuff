@@ -6,15 +6,15 @@ The README is auto-updated with the **latest top 3 items on Hacker News**.
 
 ## Top 3 on Hacker News
 
-_Last update: 2026-03-08T12:11:13.346Z_
+_Last update: 2026-03-08T13:11:08.544Z_
 
-> Another day, another automation.
+> Boring tasks completed with suspicious enthusiasm.
 
-1. [SWE-CI: Evaluating Agent Capabilities in Maintaining Codebases via CI](https://arxiv.org/abs/2603.03823)     score: 62 • comments: 9 • by: mpweiher • [discussion](https://news.ycombinator.com/item?id=47295537)
+1. [SWE-CI: Evaluating Agent Capabilities in Maintaining Codebases via CI](https://arxiv.org/abs/2603.03823)     score: 70 • comments: 16 • by: mpweiher • [discussion](https://news.ycombinator.com/item?id=47295537)
 
-2. [Notes on Writing WASM](https://notes.brooklynzelenka.com/Blog/Notes-on-Writing-Wasm)     score: 37 • comments: 15 • by: vinhnx • [discussion](https://news.ycombinator.com/item?id=47295837)
+2. [Notes on Writing WASM](https://notes.brooklynzelenka.com/Blog/Notes-on-Writing-Wasm)     score: 43 • comments: 19 • by: vinhnx • [discussion](https://news.ycombinator.com/item?id=47295837)
 
-3. [The Collective Ambition Behind Odysseus, a Game-Changing Sci-Fi Larp](https://mssv.net/2025/03/19/the-collective-ambition-behind-odysseus/)     score: 16 • comments: 1 • by: surprisetalk • [discussion](https://news.ycombinator.com/item?id=47247248)
+3. [The Collective Ambition Behind Odysseus, a Game-Changing Sci-Fi Larp](https://mssv.net/2025/03/19/the-collective-ambition-behind-odysseus/)     score: 31 • comments: 2 • by: surprisetalk • [discussion](https://news.ycombinator.com/item?id=47247248)
 
 <!-- HN:END -->
 
